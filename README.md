@@ -2,7 +2,15 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=DheerajMG-Bng&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=36BCF7&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Enthusiast;Generative+AI+%7C+RAG+%7C+Deep+Learning;IIIT+Vadodara+CSE+Undergraduate;Research+Oriented+AI+Systems+Builder" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DheerajMG-Bng&theme=dark&hide_border=true" />
+</p>
+
+---
 
 ## Hi 👋, I'm Dheeraj MG  
 
@@ -10,7 +18,7 @@
 
 ---
 
-## 🚀 About Me  
+##  About Me  
 I am a Computer Science undergraduate at **IIIT Vadodara** with a strong interest in **AI, Machine Learning, and Generative AI systems**.  
 I enjoy building research-oriented and production-grade solutions in **deep learning, NLP, time-series forecasting, and RAG-based systems**, with a focus on real-world impact and scalability.
 
@@ -19,7 +27,7 @@ I enjoy building research-oriented and production-grade solutions in **deep lear
 
 ---
 
-## 🧠 Current Project  
+##  Current Project  
 ### Retrieval-Augmented Generation (RAG) Systems  
 
 I am currently developing an **end-to-end RAG system**, evolving from a traditional retrieval pipeline into an **agentic, document-centric search framework**.
@@ -31,11 +39,11 @@ I am currently developing an **end-to-end RAG system**, evolving from a traditio
 - Controlled answer generation
 - Agentic document search using **LangChain**, **LangGraph**, and vector databases  
 
-This work emphasizes **modularity, reproducibility, and real-world applicability**.
+This work emphasizes **modularity, reproducibility, and real-world applicability** , aligning with modern AI research workflows.
 
 ---
 
-## 💻 Technical Skills  
+##  Technical Skills  
 
 - **Programming:** Python, C, HTML/CSS, JavaScript  
 - **ML / DL:** PyTorch, TensorFlow, Keras, scikit-learn, OpenCV  
@@ -45,7 +53,7 @@ This work emphasizes **modularity, reproducibility, and real-world applicability
 - **Cloud:** AWS, GCP, Microsoft Azure  
 - **Visualization:** NumPy, Pandas, Matplotlib, Seaborn, Power BI  
 - **OS:** Windows, Linux  
-
+- **Relevant Coursework:** Data Structures and Algorithms, Database Management Systems, OOPS, Computer Networks, Cryptography, Cybersecurity, Machine Learning, Deep Learning, Data Analytics.
 ---
 
 ## 🌐 Connect With Me  
