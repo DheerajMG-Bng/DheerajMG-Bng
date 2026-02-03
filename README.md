@@ -23,7 +23,7 @@ I am a Computer Science undergraduate at **IIIT Vadodara** with a strong interes
 I enjoy building research-oriented and production-grade solutions in **deep learning, NLP, time-series forecasting, and RAG-based systems**, with a focus on real-world impact and scalability.
 
 📄 **Resume:**  
-[View Resume](https://drive.google.com/file/d/1TqJhVs3HUoiSk9Sih2sWvTKeDewmgMAX/view)
+[View Resume](https://drive.google.com/file/d/1Y0Vqb4ObEJ5lBG5TszNIwK7I_4lBG68P/view)
 
 ---
 
@@ -59,7 +59,8 @@ This work emphasizes **modularity, reproducibility, and real-world applicability
 ## 🌐 Connect With Me  
 - **Portfolio:** https://v0-dheeraj-m-g-app.vercel.app/  
 - **LinkedIn:** https://www.linkedin.com/in/dheeraj-m-g  
-- **GitHub:** https://github.com/DheerajMG-Bng  
+- **GitHub:** https://github.com/DheerajMG-Bng
+- **Email:** dheerajmg05@gmail.com
 
 ---
 
