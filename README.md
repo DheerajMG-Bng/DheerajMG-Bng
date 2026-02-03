@@ -42,6 +42,29 @@ I am currently developing an **end-to-end RAG system**, evolving from a traditio
 This work emphasizes **modularity, reproducibility, and real-world applicability** , aligning with modern AI research workflows.
 
 ---
+---
+
+##  Experience  
+
+### **Design Project – AI for Sustainable Energy & Environmental Forecasting**  
+**IIIT Vadodara | Onsite**  
+
+- Designed **5 hybrid time-series forecasting models** combining **Facebook Prophet and LSTM** for hourly electricity demand prediction.  
+- Built a **modular experimentation pipeline** integrating trend, seasonality, statistical components, and deep temporal features.  
+- Collaborated in a **3-member research team under PhD mentorship**; evaluated models using **RMSE, R², and uncertainty metrics**.  
+- Focused on reproducibility, comparative evaluation, and real-world energy forecasting use cases.  
+
+---
+
+### **Direct Sales Agent**  
+**Zolve | Bengaluru, India**  
+*Nov 2025 – Present*  
+
+- Explained financial loan products and resolved customer queries with clarity and accuracy.  
+- Developed strong **communication, persuasion, and client-handling skills**.  
+- Managed daily sales targets alongside academic commitments, demonstrating time management and accountability.  
+
+---
 
 ##  Technical Skills  
 
