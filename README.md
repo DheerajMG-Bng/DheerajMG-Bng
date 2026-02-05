@@ -93,3 +93,6 @@ This work emphasizes **modularity, reproducibility, and real-world applicability
 
 - **NPTEL – Artificial Intelligence**  
   [View Certificate](https://archive.nptel.ac.in/noc/transcript_verify/?val=AB56C390C3150D161033C68F88458E4E92D701DF4A98ADA5CFF5211FB661654D)
+  
+- **INTEL – Artificial Intelligence**  
+  [View Certificate](https://drive.google.com/file/d/1QVnjE8Iig9HmzO47Cqacy6dDD_2Nu9Md/view?usp=sharing)
