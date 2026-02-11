@@ -23,11 +23,23 @@ I am a Computer Science undergraduate at **IIIT Vadodara** with a strong interes
 I enjoy building research-oriented and production-grade solutions in **deep learning, NLP, time-series forecasting, and RAG-based systems**, with a focus on real-world impact and scalability.
 
 📄 **Resume:**  
-[View Resume](https://drive.google.com/file/d/1Y0Vqb4ObEJ5lBG5TszNIwK7I_4lBG68P/view)
+[View Resume](https://drive.google.com/file/d/1KC6hevCSlgPeTyFgA6rFQeMaIQQsHbcd/view?usp=sharing)
 
 ---
 
-##  Current Project  
+##  Technical Skills  
+
+- **Programming:** Python, C, C++
+- **ML / DL:** PyTorch, TensorFlow, Keras, scikit-learn, OpenCV  
+- **GenAI & NLP:** LLMs, Generative AI, NLP, RAG, Agentic AI  
+- **Frameworks & Tools:** Flask, Streamlit, ReactJS, LangChain, LangGraph, Docker, GitHub  
+- **Cloud:** AWS, GCP, Microsoft Azure  
+- **Visualization:** NumPy, Pandas, Matplotlib, Seaborn 
+- **OS:** Windows, Linux  
+- **Relevant Coursework:** Data Structures and Algorithms, Database Management Systems, OOPS, Computer Networks, Cryptography, Cybersecurity, Machine Learning, Deep Learning, Data Analytics.
+---
+
+##  Current working Project  
 ### Retrieval-Augmented Generation (RAG) Systems  
 
 I am currently developing an **end-to-end RAG system**, evolving from a traditional retrieval pipeline into an **agentic, document-centric search framework**.
@@ -66,18 +78,6 @@ This work emphasizes **modularity, reproducibility, and real-world applicability
 
 ---
 
-##  Technical Skills  
-
-- **Programming:** Python, C, HTML/CSS, JavaScript  
-- **ML / DL:** PyTorch, TensorFlow, Keras, scikit-learn, OpenCV  
-- **GenAI & NLP:** LLMs, Generative AI, NLP, RAG, Agentic AI  
-- **Frameworks & Tools:** Flask, Streamlit, ReactJS, LangChain, LangGraph, Docker, Git, GitHub  
-- **Databases:** MySQL, MongoDB, Firebase, SQL Server  
-- **Cloud:** AWS, GCP, Microsoft Azure  
-- **Visualization:** NumPy, Pandas, Matplotlib, Seaborn, Power BI  
-- **OS:** Windows, Linux  
-- **Relevant Coursework:** Data Structures and Algorithms, Database Management Systems, OOPS, Computer Networks, Cryptography, Cybersecurity, Machine Learning, Deep Learning, Data Analytics.
----
 
 ## 🌐 Connect With Me  
 - **Portfolio:** https://v0-dheeraj-m-g-app.vercel.app/  
