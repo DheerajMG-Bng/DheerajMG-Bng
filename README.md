@@ -55,15 +55,28 @@ This work emphasizes **modularity, reproducibility, and real-world applicability
 ---
 ---
 
+---
+
 ##  Experience  
 
 ### **Design Project – AI for Sustainable Energy & Environmental Forecasting**  
-**IIIT Vadodara | Onsite**  
+**Indian Institute of Information Technology Vadodara (IIIT Vadodara) | Onsite**  
+*Aug 2025 – Dec 2025*  
 
 - Designed **5 hybrid time-series forecasting models** combining **Facebook Prophet and LSTM** for hourly electricity demand prediction.  
 - Built a **modular experimentation pipeline** integrating trend, seasonality, statistical components, and deep temporal features.  
 - Collaborated in a **3-member research team under PhD mentorship**; evaluated models using **RMSE, R², and uncertainty metrics**.  
-- Focused on reproducibility, comparative evaluation, and real-world energy forecasting use cases.  
+- Focused on reproducibility, comparative evaluation, and real-world energy forecasting applications.  
+
+---
+
+### **Junior Researcher (Internship)**  
+**Indian Institute of Information Technology Vadodara (IIIT Vadodara) | Onsite**  
+*Jan 2026 – Present*  
+
+- Contributing to applied AI research initiatives involving machine learning experimentation and evaluation.  
+- Assisting in development of scalable and reproducible ML,DL workflows.  
+- Supporting research documentation and performance benchmarking.  
 
 ---
 
@@ -71,11 +84,12 @@ This work emphasizes **modularity, reproducibility, and real-world applicability
 **Zolve | Bengaluru, India**  
 *Nov 2025 – Present*  
 
-- Explained financial loan products and resolved customer queries with clarity and accuracy.  
-- Developed strong **communication, persuasion, and client-handling skills**.  
+- Working on financial loan products and resolved customer queries with clarity and accuracy.  
+- Developed strong communication, persuasion, and client-handling skills.  
 - Managed daily sales targets alongside academic commitments, demonstrating time management and accountability.  
 
 ---
+
 
 
 ## 🌐 Connect With Me  
