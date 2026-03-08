@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=DheerajMG-Bng&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=36BCF7&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Enthusiast;Generative+AI+%7C+RAG+%7C+Deep+Learning;IIIT+Vadodara+CSE+Undergraduate;Research+Oriented+AI+Systems+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=36BCF7&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Enthusiast;Generative+AI+%7C+RAG+%7C+Deep+Learning;IIIT+Vadodara+CSE+Undergraduate;AI+Systems+Builder" />
 </p>
 
 <p align="center">
@@ -53,9 +53,6 @@ I am currently developing an **end-to-end RAG system**, evolving from a traditio
 This work emphasizes **modularity, reproducibility, and real-world applicability** , aligning with modern AI research workflows.
 
 ---
----
-
----
 
 ##  Experience  
 
@@ -92,12 +89,14 @@ This work emphasizes **modularity, reproducibility, and real-world applicability
 
 
 
-## 🌐 Connect With Me  
+##  Connect With Me  
 - **Portfolio:** https://v0-dheeraj-m-g-app.vercel.app/  
 - **LinkedIn:** https://www.linkedin.com/in/dheeraj-m-g  
 - **GitHub:** https://github.com/DheerajMG-Bng
 - **Email:** dheerajmg05@gmail.com
 
+### Languages
+- English, Kannada, Telugu, Hindi, Tamil, Malayalam ,Marathi
 ---
 
 ## 📜 Certifications  
@@ -109,3 +108,4 @@ This work emphasizes **modularity, reproducibility, and real-world applicability
   
 - **INTEL – Artificial Intelligence**  
   [View Certificate](https://drive.google.com/file/d/1QVnjE8Iig9HmzO47Cqacy6dDD_2Nu9Md/view?usp=sharing)
+
