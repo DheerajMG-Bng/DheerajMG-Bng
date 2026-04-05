@@ -23,7 +23,7 @@ I am a Computer Science undergraduate at **IIIT Vadodara** with a strong interes
 I enjoy building research-oriented and production-grade solutions in **deep learning, NLP, time-series forecasting, and RAG-based systems**, with a focus on real-world impact and scalability.
 
 📄 **Resume:**  
-[View Resume](https://drive.google.com/file/d/1bg1gSdnqURCa-pSoWAxTxGlLdbbZ98FJ/view?usp=sharing)
+[View Resume](https://drive.google.com/file/d/1bVw0wPyMbE6AdDpzHY45c2HEEFKkvGXd/view?usp=sharing)
 
 ---
 
@@ -36,22 +36,6 @@ I enjoy building research-oriented and production-grade solutions in **deep lear
 - **Visualization:** NumPy, Pandas, Matplotlib, Seaborn 
 - **OS:** Windows, Linux  
 - **Relevant Coursework:** Data Structures and Algorithms, Database Management Systems, OOPS, Computer Networks, Cryptography, Cybersecurity, Machine Learning, Deep Learning, Data Analytics.
----
-
-##  Current working Project  
-### Retrieval-Augmented Generation (RAG) Systems  
-
-I am currently developing an **end-to-end RAG system**, evolving from a traditional retrieval pipeline into an **agentic, document-centric search framework**.
-
-**Key focus areas:**
-- Traditional RAG pipelines (retrieval + generation)
-- Document ingestion and chunking strategies
-- Vector indexing and similarity search
-- Controlled answer generation
-- Agentic document search using **LangChain**, **LangGraph**, and vector databases  
-
-This work emphasizes **modularity, reproducibility, and real-world applicability** , aligning with modern AI research workflows.
-
 ---
 
 ##  Experience  
@@ -87,8 +71,6 @@ This work emphasizes **modularity, reproducibility, and real-world applicability
 
 ---
 
-
-
 ##  Connect With Me  
 - **Portfolio:** https://v0-dheeraj-m-g-app.vercel.app/  
 - **LinkedIn:** https://www.linkedin.com/in/dheeraj-m-g  
@@ -96,7 +78,7 @@ This work emphasizes **modularity, reproducibility, and real-world applicability
 - **Email:** dheerajmg05@gmail.com
 
 ### Languages
-- English, Kannada, Telugu, Hindi, Tamil, Malayalam ,Marathi
+- English, *Kannada, *Telugu, Hindi, Tamil, Malayalam ,Marathi
 ---
 
 ## 📜 Certifications  
@@ -105,6 +87,9 @@ This work emphasizes **modularity, reproducibility, and real-world applicability
 
 - **NPTEL – Artificial Intelligence**  
   [View Certificate](https://archive.nptel.ac.in/noc/transcript_verify/?val=AB56C390C3150D161033C68F88458E4E92D701DF4A98ADA5CFF5211FB661654D)
+
+- **NVIDIA – AI on Jetson Nano**  
+  [View Certificate](https://learn.nvidia.com/certificates?id=l16L7Q52QZG2CWObQDoTNQ)
   
 - **INTEL – Artificial Intelligence**  
   [View Certificate](https://drive.google.com/file/d/1QVnjE8Iig9HmzO47Cqacy6dDD_2Nu9Md/view?usp=sharing)
