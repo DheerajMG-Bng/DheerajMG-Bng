@@ -74,7 +74,6 @@ I enjoy building research-oriented and production-grade solutions in **deep lear
 ##  Connect With Me  
 - **Portfolio:** https://v0-dheeraj-m-g-app.vercel.app/  
 - **LinkedIn:** https://www.linkedin.com/in/dheeraj-m-g  
-- **GitHub:** https://github.com/DheerajMG-Bng
 - **Email:** dheerajmg05@gmail.com
 
 ### Languages
@@ -91,6 +90,3 @@ I enjoy building research-oriented and production-grade solutions in **deep lear
 - **NVIDIA – AI on Jetson Nano**  
   [View Certificate](https://learn.nvidia.com/certificates?id=l16L7Q52QZG2CWObQDoTNQ)
   
-- **INTEL – Artificial Intelligence**  
-  [View Certificate](https://drive.google.com/file/d/1QVnjE8Iig9HmzO47Cqacy6dDD_2Nu9Md/view?usp=sharing)
-
