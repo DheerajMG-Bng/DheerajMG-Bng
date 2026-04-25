@@ -23,7 +23,7 @@ I am a Computer Science undergraduate at **IIIT Vadodara** with a strong interes
 I enjoy building research-oriented and production-grade solutions in **deep learning, NLP, time-series forecasting, and RAG-based systems**, with a focus on real-world impact and scalability.
 
 📄 **Resume:**  
-[View Resume](https://drive.google.com/file/d/1bVw0wPyMbE6AdDpzHY45c2HEEFKkvGXd/view?usp=sharing)
+[View Resume](https://drive.google.com/file/d/1Cd0bqFRdEDP5omQmcl7KnwmhB7GMzG9T/view?usp=sharing)
 
 ---
 
@@ -80,7 +80,11 @@ I enjoy building research-oriented and production-grade solutions in **deep lear
 - English, *Kannada, *Telugu, Hindi, Tamil, Malayalam ,Marathi
 ---
 
-## 📜 Certifications  
+## 📜 Achievements & Certifications 
+- **Infosys HackWithInfy 2026 (National Level) – Qualified for PPO Final Interview Round**
+
+  [View Certificate](https://drive.google.com/file/d/1hyzpPm2O-7rqnyC6VXpQqNnvthP9imxn/view)
+  
 - **NVIDIA – Fundamentals of Deep Learning**  
   [View Certificate](https://learn.nvidia.com/certificates?id=l16L7Q52QZG2CWObQDoTNQ)
 
