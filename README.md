@@ -40,6 +40,20 @@ I enjoy building research-oriented and production-grade solutions in **deep lear
 
 ##  Experience  
 
+### **AI-ML Engineer May 2026 - Present**
+#### TestAIng, Bengaluru
+- Working on applied AI/ML engineering tasks involving model development, testing, and deployment in a productfocused environment.
+- Contributing to building and validating AI-driven features, applying expertise in Python, deep learning frameworks,
+and modular pipeline design.
+
+
+### **Researcher – Vicharanshala | VLED May 2026 - Present**
+#### IIT Ropar (Internship) 2 Joining Letter
+- Conducting research under IIT Ropar’s Vicharanshala initiative, contributing to AI/ML-driven investigations in an
+academic research setting.
+- Applying analytical and experimental skills to advance ongoing research objectives within the VLED programme
+
+
 ### **Design Project – AI for Sustainable Energy & Environmental Forecasting**  
 **Indian Institute of Information Technology Vadodara (IIIT Vadodara) | Onsite**  
 *Aug 2025 – Dec 2025*  
