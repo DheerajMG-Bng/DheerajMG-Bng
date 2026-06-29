@@ -23,7 +23,7 @@ I am a Computer Science undergraduate at **IIIT Vadodara** with a strong interes
 I enjoy building research-oriented and production-grade solutions in **deep learning, NLP, time-series forecasting, and RAG-based systems**, with a focus on real-world impact and scalability.
 
 📄 **Resume:**  
-[View Resume](https://drive.google.com/file/d/1Cd0bqFRdEDP5omQmcl7KnwmhB7GMzG9T/view?usp=sharing)
+[View Resume](https://drive.google.com/file/d/1SrGm2T9lRK_I_wmXIfkES48-TnJL1cR8/view?usp=sharing)
 
 ---
 
@@ -48,7 +48,7 @@ and modular pipeline design.
 
 
 ### **Researcher – Vicharanshala | VLED May 2026 - Present**
-#### IIT Ropar (Internship) 2 Joining Letter
+#### IIT Ropar (Summership)
 - Conducting research under IIT Ropar’s Vicharanshala initiative, contributing to AI/ML-driven investigations in an
 academic research setting.
 - Applying analytical and experimental skills to advance ongoing research objectives within the VLED programme
