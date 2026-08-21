@@ -23,7 +23,7 @@ I am a Computer Science undergraduate at **IIIT Vadodara** with a strong interes
 I enjoy building research-oriented and production-grade solutions in **deep learning, NLP, time-series forecasting, and RAG-based systems**, with a focus on real-world impact and scalability.
 
 📄 **Resume:**  
-[View Resume](https://drive.google.com/file/d/1SrGm2T9lRK_I_wmXIfkES48-TnJL1cR8/view?usp=sharing)
+[View Resume](https://drive.google.com/file/d/1iIvsq5Mw-mpy29nv_EOJts3Twxkz0xbB/view?usp=sharing)
 
 ---
 
@@ -40,12 +40,23 @@ I enjoy building research-oriented and production-grade solutions in **deep lear
 
 ##  Experience  
 
+
 ### **AI-ML Engineer May 2026 - Present**
 #### TestAIng, Bengaluru
 - Working on applied AI/ML engineering tasks involving model development, testing, and deployment in a productfocused environment.
 - Contributing to building and validating AI-driven features, applying expertise in Python, deep learning frameworks,
 and modular pipeline design.
+---
 
+### **Amazon ML Summer School Jul 2026 – Aug 2026**
+Participant Virtual
+- Selected for Amazon ML Summer School 2026 and completed advanced learning modules in Machine Learning and Deep
+Learning.
+- Strengthened knowledge of supervised learning, neural networks, optimization, model evaluation and practical ML
+workflows.
+- Participated in technical sessions delivered by Amazon scientists and engineers.
+
+---
 
 ### **Researcher – Vicharanshala | VLED May 2026 - Present**
 #### IIT Ropar (Summership)
@@ -53,6 +64,7 @@ and modular pipeline design.
 academic research setting.
 - Applying analytical and experimental skills to advance ongoing research objectives within the VLED programme
 
+---
 
 ### **Design Project – AI for Sustainable Energy & Environmental Forecasting**  
 **Indian Institute of Information Technology Vadodara (IIIT Vadodara) | Onsite**  
@@ -91,13 +103,13 @@ academic research setting.
 - **Email:** dheerajmg05@gmail.com
 
 ### Languages
-- English, *Kannada, *Telugu, Hindi, Tamil, Malayalam ,Marathi
+- English, *Kannada, *Telugu, Tulu, Hindi, Tamil, Malayalam ,Marathi
 ---
 
 ## 📜 Achievements & Certifications 
-- **Infosys HackWithInfy 2026 (National Level) – Qualified for PPO Final Interview Round**
+- **Infosys HackWithInfy 2026 (National Level) – Got the PrePlacement Offer PPO at Infosys.**
 
-  [View Certificate](https://drive.google.com/file/d/1hyzpPm2O-7rqnyC6VXpQqNnvthP9imxn/view)
+  [View Certificate](https://drive.google.com/file/d/1QaTDwjnEG472AQMSng19DbsrsDLYhd14/view)
   
 - **NVIDIA – Fundamentals of Deep Learning**  
   [View Certificate](https://learn.nvidia.com/certificates?id=l16L7Q52QZG2CWObQDoTNQ)
